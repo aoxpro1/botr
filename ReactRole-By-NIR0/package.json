@@ -1,0 +1,33 @@
+{
+    "name": "ULTRA_ReactRole_Bot",
+    "version": "1.0.0",
+    "description": "All Copyrights Go's To: NIR0",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.11.11",
+        "wokcommands": "^1.2.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"NIRO_IS_HERE\"",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NIR0-V/Ultra-React.Role.Bot-By-Niro-.git"
+    },
+    "keywords": [
+        "NIR0",
+        "@ニロ#3892",
+        "’_’"
+    ],
+    "author": "@ニロ#3892",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NIR0-V/Ultra-React.Role.Bot-By-Niro-.git"
+    },
+    "homepage": "https://github.com/NIR0-V/Ultra-React.Role.Bot-By-Niro-.git"
+}
